@@ -4,5 +4,4 @@
     -  Paleonthology / Archeology
     -  Computer Science
     -  Video games
-- 🌱 I’m currently studying in France in an IUT
 - I'm looking forward to contribute to projects I'm interested in
